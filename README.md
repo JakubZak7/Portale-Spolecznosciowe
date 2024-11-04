@@ -47,4 +47,4 @@ W tabeli znajdują sie dane najpopularniejszych portali społecznościowych. Zna
 
 ![Twitter](https://logocreator.io/wp-content/uploads/2023/11/64c2bb00cc53d81d58842318_og-twitter-x.png)  
 
-![Instagram](C:\Users\s-A121-10.CAMPUS.005\Desktop\logo\insta.png)
+![Instagram](insta.png)
