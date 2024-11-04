@@ -1,0 +1,44 @@
+[
+    {
+        "website": "www.facebook.com",
+        "accounts": 45000000,
+        "owner": "Mark Zuckerberg",
+        "rank": 2,
+        "only_registered": false
+    },
+    {
+        "website": "www.x.com",
+        "accounts": 35000000,
+        "owner": "Elon Musk",
+        "rank": 1,
+        "only_registered": true
+    },
+    {
+        "website": "www.instagram.com",
+        "accounts": 15000000,
+        "owner": "Mark Zuckerberg",
+        "rank": 3,
+        "only_registered": false
+    },
+    {
+        "website": "www.youtube.com",
+        "accounts": 50000000,
+        "owner": "Sundar Pichai",
+        "rank": 4,
+        "only_registered": false
+    },
+    {
+        "website": "www.wykop.pl",
+        "accounts": 500000,
+        "owner": "Michał Białek",
+        "rank": 564,
+        "only_registered": false
+    },
+    {
+        "website": "www.tiktok.com",
+        "accounts": 60000000,
+        "owner": "Zhang Yiming",
+        "rank": 5,
+        "only_registered": false
+    }
+]
