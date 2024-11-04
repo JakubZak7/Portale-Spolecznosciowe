@@ -1,0 +1,19 @@
+{
+    "name": "Meta",
+    "accounts": 60000000,
+    "only_registered": false,
+    "rating": 4.0,
+    "owner": "Mark Zuckerberg",
+    "rank": 2,
+    "socialmedia_sites": {
+        "Facebook": "www.facebook.com",
+        "Instagram": "www.instagram.com",
+        "WhatsApp": "www.whatsapp.com",
+        "Threads": "www.threads.com"
+    },
+    "famous_profiles": [
+        "Mark Zuckerberg",
+        "Google",
+        "Microsoft"
+    ]
+}
